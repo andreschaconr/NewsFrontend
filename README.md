@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# TEST GOPASS FRONTEND
+![image](https://user-images.githubusercontent.com/89316806/171066063-10411e70-ef95-4a63-855d-5fcbb57e0a36.png)
+![image](https://user-images.githubusercontent.com/89316806/171066287-9e891600-1404-4021-a00f-5468be83941c.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## EN
+This project allows you to consume an express backend with React that displays news in Spanish from https://newsapi.org/
 
-## Available Scripts
+## INSTRUCTIONS TO START THE PROJECT AT THE LOCAL LEVEL:
+### FRONT-END
+## Pre-requirements ⚖️
+_If you want to execute test and develop this project you must have any code editor like Visual Studio Code. To run this project you must have installed “Node js” in your pc._
 
-In the project directory, you can run:
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## Getting the project ⚡
+### IT IS IMPORTANT THAT IT IS FIRST RUN ON THE BACKEND SERVER TO GRANT THE CONNECTION
+1. First, the project must be cloned with the following command:
+ git clone https://github.com/CristianMontoya98/Legacy-Red-social-Progr-mate/tree/main_
+ 
+2. After the project is created, a new folder will be created automatically and it must be entered the following command:  cd newsgopass
+ 
+3. Then, you have to install the dependencies of the project using the following comand:  npm install
+ 
+4. Next step is to open the project in our favorite editor code 
+ 
+If you do NOT have the Back-end on your local computer, you should VISIT https://github.com/andreschaconr/TestGopassBackend
 
-### `npm start`
+## Starting 🚀
+1. When the previous steps have been executed, we can run our project with the following command:_ npm start
+ Runs the app in the development mode.\
+ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+_2. To see how the project works, you must go to the browser and write: http://localhost:3000/_
+ 
+## Build by 🛠️
+* React js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ES
+Este proyecto le permite consumir un backend de express con React que muestra noticias en español provenientes de  https://newsapi.org/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## INSTRUCCIONES PARA INICIAR EL PROYECTO A NIVEL LOCAL:
+### FRONT-END
+## Pre-requisitos⚖️
+_Si desea ejecutar la prueba y desarrollar este proyecto, debe tener algún editor de código como Visual Studio Code. Para ejecutar este proyecto debes tener instalado “Node js” en tu pc._
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## Obtener el proyecto ⚡
 
-### `npm run build`
+### ES IMPORTANTE QUE PRIMERO SE EJECUTE EL SEVIDOR DE BACKEND PARA GRANTIZAR LA CONEXION
+_1. Primero, el proyecto debe ser clonado con el siguiente comando:_
+ git clone https://github.com/andreschaconr/TestGopassFrontend.git
+ 
+_2. Luego de creado el proyecto, se creará automáticamente una nueva carpeta y se debe ingresar el siguiente comando:  cd newsgopass_
+ 
+_3. Luego, debe instalar las dependencias del proyecto usando el siguiente comando: npm install_
+ 
+_4. El siguiente paso es abrir el proyecto en nuestro editor de código favorito_
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ 
+Si NO tiene el Back-end en su computadora local, debe VISITAR https://github.com/andreschaconr/TestGopassBackend
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Comenzando 🚀
+_1. Cuando se hayan ejecutado los pasos anteriores, podemos ejecutar nuestro proyecto con el siguiente comando:_
+    npm start
+    Ejecuta la aplicación en el modo de desarrollo..\
+    Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
+ 
+_2. Para ver como funciona el proyecto, debes ir al navegador y escribir:_
 
-### `npm run eject`
+_```http://localhost:3000/```_
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Hecho con 🛠️
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* React js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Andrés Chacón 💪
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
