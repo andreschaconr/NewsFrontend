@@ -1,4 +1,4 @@
-# TEST GOPASS FRONTEND
+# NEWS FRONTEND
 ![image](https://user-images.githubusercontent.com/89316806/171066063-10411e70-ef95-4a63-855d-5fcbb57e0a36.png)
 ![image](https://user-images.githubusercontent.com/89316806/171066287-9e891600-1404-4021-a00f-5468be83941c.png)
 
@@ -14,7 +14,7 @@ _If you want to execute test and develop this project you must have any code edi
 ## Getting the project ⚡
 ### IT IS IMPORTANT THAT IT IS FIRST RUN ON THE BACKEND SERVER TO GRANT THE CONNECTION
 1. First, the project must be cloned with the following command:
- git clone https://github.com/CristianMontoya98/Legacy-Red-social-Progr-mate/tree/main_
+ 
  
 2. After the project is created, a new folder will be created automatically and it must be entered the following command:  cd newsgopass
  
@@ -47,7 +47,7 @@ _Si desea ejecutar la prueba y desarrollar este proyecto, debe tener algún edit
 
 ### ES IMPORTANTE QUE PRIMERO SE EJECUTE EL SEVIDOR DE BACKEND PARA GRANTIZAR LA CONEXION
 _1. Primero, el proyecto debe ser clonado con el siguiente comando:_
- git clone https://github.com/andreschaconr/TestGopassFrontend.git
+ 
  
 _2. Luego de creado el proyecto, se creará automáticamente una nueva carpeta y se debe ingresar el siguiente comando:  cd newsgopass_
  
